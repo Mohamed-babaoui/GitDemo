@@ -4,17 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="0a82b8d3-d8d4-41c3-8607-cdbc59011b36" name="Changes" comment="" />
+=======
+    <list default="true" id="f9c54678-800c-4b50-988a-2412180fb806" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner/Runner.java" afterDir="false" />
+    </list>
+>>>>>>> 172d58919ec3375a9f94d800d5967950882e00c4
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2aK6ZsUCAu60VhTCQ4t8vs8QXL3" />
+>>>>>>> 172d58919ec3375a9f94d800d5967950882e00c4
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/a904051/GitX/.idea"
+=======
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop",
+    "last_opened_file_path": "C:/Users/a904051/GitX",
+    "onboarding.tips.debug.path": "C:/Users/a904051/IdeaProjects/CucumemberCorse/src/main/java/org/example/Main.java"
+>>>>>>> 172d58919ec3375a9f94d800d5967950882e00c4
   }
 }]]></component>
   <component name="RecentsManager">
